@@ -16,8 +16,8 @@ I made this project in javascript with the Phaser3 library.
 ## Schedule 
 
 | | monday | tuesday | wednesday | thursday | friday |
-| Exploring and accesing the library, | Writing classes | --- | --- | --- | --- |
-|week 1 |
+| --- | --- | --- | --- | --- | --- |
+|week 1 | Learning and accesing the library | Writing classes |
 |week 2 |
 
 ## Sources
